@@ -26,4 +26,4 @@ No more turning to paid sites. Get all your work done absolutely free.
 
 
 
-## [Click Here](https://github.com/Udit-Narayan-Kaushik/Resource_Hub) to view the Project.
+## [Click Here]([https://github.com/Udit-Narayan-Kaushik/Resource_Hub](https://udit-narayan-kaushik.github.io/Resource_Hub/)) to view the Project.
